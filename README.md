@@ -1,4 +1,4 @@
-# Projects by Khushi Sharma
+OOPS_CC_PY
 
 This repository contains two Python projects demonstrating Object-Oriented Programming (OOP) concepts and practical API usage for currency conversion.
 
